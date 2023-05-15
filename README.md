@@ -35,3 +35,29 @@ Bom... Depois de Randomizarmos 50 imagens, deveremos posicionar randomicamente e
 https://www.youtube.com/watch?v=EGmlFdwD4C4 </br>
 
 3º A posição das imagens é definida aleatoriamente (randomicamente) no início do jogo.
+---
+Bom esta estapa é meio que auto-explicativa. Basta posicionar os sinais gerados.</br>
+
+4º O jogador inicia com 5 vidas.
+---
+Recomendo que coloque essa parte em uma função onde deve ser verificada a cada jogada realizada. Que ENQUANTO a VIDA > 0 então o jogo continua.</br>
+https://www.youtube.com/watch?v=LH6OIn2lBaI </br>
+Usando essa estrutura.
+
+5º A cada erro (escolha de 2 imagens distintas) perde uma vida. 
+---
+A jogada só acaba, QUANDO 2 imagens forem selecionadas e COMPARADAS.
+
+6º A cada 3 acertos consecutivos, ganha uma vida. 
+---
+Mais uma comparação, só que dessa vez de adição de vida, deve receber o numero de acertos concecutivos.
+
+7º Inicialmente, todas as posições estão fechadas (invisíveis para o jogador). 
+---
+O jogador não pode ver nenhuma infomação, use uma mascara para esconder as informações sem alterar o valor posicional da Matriz.
+
+8º A cada rodada, o jogador escolhe as coordenadas da 1ª imagem e as coordenadas da 2ª imagem.
+---
+Devemos utilizar cordenadas em X e Y, já que estamos trabalhando com matriz...
+
+9º
