@@ -58,6 +58,16 @@ O jogador não pode ver nenhuma infomação, use uma mascara para esconder as in
 
 8º A cada rodada, o jogador escolhe as coordenadas da 1ª imagem e as coordenadas da 2ª imagem.
 ---
-Devemos utilizar cordenadas em X e Y, já que estamos trabalhando com matriz...
+Devemos utilizar cordenadas em X e Y, já que estamos trabalhando com matriz...</br>
 
-9º
+9º O jogo mostra as imagens nas posições escolhidas pelo jogador.</br>
+10º Caso as imagens das posições escolhidas formarem um par, permanecerão expostas.</br>
+11º Caso as imagens das posições escolhidas não formarem um par, voltarão a ser fechadas.</br>
+12º O jogador vence, quando conseguir montar todos os pares de imagens.</br>
+13º O jogador perde o jogo quando esgotar suas vidas. </br>
+
+Esses passos são auto-explicativos, é uma dificuldade de implementação e não de conhecimento. A parte lógica é a mais complexas porem divida o desafio em pequenas etapas, assim será fácil a compreeensão.</br>
+
+
+Caso haja alguma dúvida, o grupo da monitoria estará disponivel a partir das 17:30.</br>
+### Bonne Etudie mon's Amie.
