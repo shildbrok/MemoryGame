@@ -69,5 +69,5 @@ Devemos utilizar cordenadas em X e Y, já que estamos trabalhando com matriz...<
 Esses passos são auto-explicativos, é uma dificuldade de implementação e não de conhecimento. A parte lógica é a mais complexas porem divida o desafio em pequenas etapas, assim será fácil a compreeensão.</br>
 
 
-Caso haja alguma dúvida, o grupo da monitoria estará disponivel a partir das 17:30.</br>
+Caso haja alguma dúvida, o grupo da monitoria estará disponivel a partir das 17:30 Seg-Sex.</br>
 ### Bonne Etudie mon's Amie.
